@@ -111,4 +111,4 @@ Looking ahead, we plan to:
 
 This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENSE) file for details.
 
-*This project was developed by Muhammad Junaid Ali Asif Raja.*
+*This repository was developed by Muhammad Junaid Ali Asif Raja.*
